@@ -2,7 +2,8 @@
 
 I am a Data Scientist and Machine Learning engineer 
 
-📫Linkedin Profile: [Linkedin](https://www.linkedin.com/in/ndongayami-muteweri-632a70b0/)
+📫Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndongayami-muteweri-632a70b0/)
+
 
 📫Email: ndongayamimuteweri@gmail.com
 
