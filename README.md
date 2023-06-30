@@ -15,6 +15,14 @@ I am a Data Scientist and Machine Learning engineer
 - 💬 Ask me about  Freelancing and Data Science...
 ---
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ndo71292)](https://github.com/Ndo71292)
+[![Ndo's Stri](https://streak-stats.demolab.com?user=Ndo71292&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) 
+|
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndo71292&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+
+
+
+
 
 ---
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/uxy9rx7HNQlGYl1kPzQho1wx4JwY8wC" crossorigin="anonymous">
