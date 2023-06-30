@@ -16,9 +16,9 @@ I am a Data Scientist and Machine Learning engineer
 ---
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ndo71292)](https://github.com/Ndo71292)
 [![Ndo's Stri](https://streak-stats.demolab.com?user=Ndo71292&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) 
-|
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndo71292&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndo71292&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
